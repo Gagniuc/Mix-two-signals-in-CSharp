@@ -8,7 +8,7 @@ The Spectral Forecast equation adapted to signals can be observed below:
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/spectral%20forecast%20signals.png?raw=true)
 
-What can you expect from the code above? The effect of the above source code for longer signals can be seen in a [graphical form](https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/) below:
+What can you expect from the code above? The effect of the above source code in the case of longer signals can be seen in a [graphical form](https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/) below:
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(0).gif?raw=true)
 
